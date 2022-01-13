@@ -1,1 +1,2 @@
 # odin-recipies
+This project is my first attempt at creating an HTML website based off everything we've learned in the foundation section of The Odin Project. I will be demonstrating how to use Git, GitHub, and basic HTML such as using headers, paragraphs, lists, etc
